@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LaZZeR55
-- 👀 I’m interested in android and ios development
-- 🌱 I’m currently learning flutter and compititve coding
+- 👀 I’m interested in frontend development.
+- 🌱 I’m currently working on react, flutter and compititve coding
 - 📫  reach me gadiya.vishal555@gmail.com
 
 <!---
